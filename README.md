@@ -8,9 +8,9 @@
   <img align="center" alt="Maria-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Maria-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maria-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Maria-pic" height="150" style="border-radius:50px;" 
-src="https://picrew.me/share?cd=HliqILF0YC #Picrew #AmphyPop_Doll_Maker">
-  
+ 
+<img src="https://github.com/MariaAfalcao/src/blob/main/gif-300x300-n.gif raw=true" width="100" height="100" align="right">
+
 </div>
   
   ##
