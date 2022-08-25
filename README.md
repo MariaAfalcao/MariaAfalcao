@@ -1,4 +1,8 @@
-## Olá! Eu sou a Maria Aparecida Falcão, atualmente estudo java na <code>[#Alura](https://www.alura.com.br/)</code>, estudei na Etec Sebrae, especialista em desenvolvimento para android!
+
+![banner](https://github.com/MariaAfalcao/imagem/blob/main/banner.jpg)
+## Olá! Eu sou a Maria Aparecida Falcão, atualmente estudo java na <code>[#Alura](https://www.alura.com.br/)</code>, estudei na Etec Sebrae, desenvolvimento para smartphone!
+<p align="left"><img src="https://komarev.com/ghpvc/?username=MariaAfalcao&label=Profile%20views&color=0e75b6&style=flat" alt="MariaAfalcao" /> </p>
+
 <div align="center">
   <a href="https://github.com/MariaAfalcao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaAfalcao&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
