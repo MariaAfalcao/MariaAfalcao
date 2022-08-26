@@ -1,5 +1,14 @@
+![banner](https://github.com/MariaAfalcao/imagem/blob/main/banner.jpg align="center" width="600" height="500")![banner](https://github.com/MariaAfalcao/imagem/blob/main/banner.jpg)
 
+[Página Inicial](Home)|[Aulas do Professor](Aulas_Professor)
+|---|---|
 ![banner](https://github.com/MariaAfalcao/imagem/blob/main/banner.jpg)
+Primeia Coluna | Segunda Coluna
+|---|---|
+Linha 1, Coluna 1| Linha 1, Coluna 2
+Linha 2, Coluna 1| Linha 2, Coluna 2
+
+
 ## Olá! Eu sou a Maria Aparecida Falcão, atualmente estudo java na <code>[#Alura](https://www.alura.com.br/)</code>, estudei na Etec Sebrae, desenvolvimento para smartphone!
 <p align="left"><img src="https://komarev.com/ghpvc/?username=MariaAfalcao&label=Profile%20views&color=0e75b6&style=flat" alt="MariaAfalcao" /> </p>
 
@@ -14,9 +23,8 @@
   <img align="center" alt="Maria-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 <img src="https://github.com/MariaAfalcao/src/blob/main/gif-300x300-n.gif raw=true" width="100" height="100" align="right">
-
 </div>
-  
+
   ##
  
   <a href="https://www.instagram.com/maria.afalcao3/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
