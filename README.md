@@ -23,7 +23,9 @@ Linha 2, Coluna 1| Linha 2, Coluna 2
   <img align="center" alt="Maria-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maria-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
-<img src="https://github.com/MariaAfalcao/src/blob/main/gif-300x300-n.gif raw=true" width="100" height="100" align="right">
+<img src="https://gfycat.com/nimblesomberhammerheadbird-propaganda-movimenta-mercado-avatar-bairro-fala" width="100" height="100" align="right">
+
+
 </div>
 
   ##
@@ -45,5 +47,7 @@ Linha 2, Coluna 1| Linha 2, Coluna 2
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
   </a>
 </div>
+
+<img src="https://github.com/MariaAfalcao/MariaAfalcao/blob/main/video.gif" width="100" height="100" align="right">
 
 </div>
