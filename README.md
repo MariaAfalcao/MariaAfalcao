@@ -1,4 +1,5 @@
-![banner](https://github.com/MariaAfalcao/imagem/blob/main/banner.jpg align="center" width="600" height="500")![banner](https://github.com/MariaAfalcao/imagem/blob/main/banner.jpg)
+
+![banner](https://github.com/MariaAfalcao/imagem/blob/main/banner.jpg)
 
 [Página Inicial](Home)|[Aulas do Professor](Aulas_Professor)
 |---|---|
