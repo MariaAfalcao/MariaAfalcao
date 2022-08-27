@@ -34,7 +34,7 @@ Linha 2, Coluna 1| Linha 2, Coluna 2
   <a href = "mailto:mariaaparecidafalcao051@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-aparecida-falc%C3%A3o-68242917a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MariaAfalcao/MariaAfalcao/blob/output/github-contribution-grid-snake.svg)
 
 
 
