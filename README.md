@@ -9,8 +9,11 @@ Primeia Coluna | Segunda Coluna
 Linha 1, Coluna 1| Linha 1, Coluna 2
 Linha 2, Coluna 1| Linha 2, Coluna 2
 
+## Olá! Eu sou a Maria Aparecida Falcão.  <img src="https://github.com/MariaAfalcao/MariaAfalcao/blob/main/video.gif" width="100" height="100" align="right">
 
-## Olá! Eu sou a Maria Aparecida Falcão, atualmente estudo java na <code>[#Alura](https://www.alura.com.br/)</code>, estudei na Etec Sebrae, desenvolvimento para smartphone!
+### Bem vindo ao meu perfil GitHub!👋 
+#### 📚Atualmente estudo java na <code>[#Alura](https://www.alura.com.br/)</code>, estudei na Etec Sebrae, desenvolvimento para smartphone!
+#
 <p align="left"><img src="https://komarev.com/ghpvc/?username=MariaAfalcao&label=Profile%20views&color=0e75b6&style=flat" alt="MariaAfalcao" /> </p>
 
 <div align="center">
@@ -47,7 +50,5 @@ Linha 2, Coluna 1| Linha 2, Coluna 2
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
   </a>
 </div>
-
-<img src="https://github.com/MariaAfalcao/MariaAfalcao/blob/main/video.gif" width="100" height="100" align="right">
 
 </div>
