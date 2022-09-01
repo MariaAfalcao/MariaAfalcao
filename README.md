@@ -18,7 +18,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaAfalcao&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
- ### Ferramentas e Tecnologias
+ ### Ferramentas e Tecnologias:
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Maria-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -27,6 +27,8 @@
  
 <img src="https://gfycat.com/nimblesomberhammerheadbird-propaganda-movimenta-mercado-avatar-bairro-fala" width="100" height="100" align="right">
 </div>
+  
+  ##
   
 ### Contatos:
 
@@ -38,6 +40,8 @@
 <a href="https://www.linkedin.com/in/maria-aparecida-falc%C3%A3o-68242917a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+  ##
+  
   ![Snake animation](https://github.com/MariaAfalcao/MariaAfalcao/blob/output/github-contribution-grid-snake.svg)
 
 ##
