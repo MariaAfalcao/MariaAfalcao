@@ -42,6 +42,7 @@
 
   ##
   
+  ### Animação snake:
   ![Snake animation](https://github.com/MariaAfalcao/MariaAfalcao/blob/output/github-contribution-grid-snake.svg)
 
 ##
