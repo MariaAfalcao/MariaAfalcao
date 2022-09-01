@@ -1,14 +1,4 @@
 
-![banner](https://github.com/MariaAfalcao/imagem/blob/main/banner.jpg)
-
-[Página Inicial](Home)|[Aulas do Professor](Aulas_Professor)
-|---|---|
-![banner](https://github.com/MariaAfalcao/imagem/blob/main/banner.jpg)
-Primeia Coluna | Segunda Coluna
-|---|---|
-Linha 1, Coluna 1| Linha 1, Coluna 2
-Linha 2, Coluna 1| Linha 2, Coluna 2
-
 ## Olá! Eu sou a Maria Aparecida Falcão.  <img src="https://github.com/MariaAfalcao/MariaAfalcao/blob/main/video.gif" width="100" height="100" align="right">
 
 ### Bem vindo ao meu perfil GitHub!👋 
@@ -26,6 +16,10 @@ Linha 2, Coluna 1| Linha 2, Coluna 2
   <img align="center" alt="Maria-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maria-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
+  
+  
+  
+  
 <img src="https://gfycat.com/nimblesomberhammerheadbird-propaganda-movimenta-mercado-avatar-bairro-fala" width="100" height="100" align="right">
 
 
@@ -39,8 +33,10 @@ Linha 2, Coluna 1| Linha 2, Coluna 2
  
   ![Snake animation](https://github.com/MariaAfalcao/MariaAfalcao/blob/output/github-contribution-grid-snake.svg)
 
-
-
+[![Assista ao vídeo](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
+  
+  < a  href =" http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q " target =" _blank " >/a></a></a></a>
+  
   ##
 
 <div>
@@ -50,5 +46,5 @@ Linha 2, Coluna 1| Linha 2, Coluna 2
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
   </a>
 </div>
-
+ 
 </div>
