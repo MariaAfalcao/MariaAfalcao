@@ -56,6 +56,13 @@
 
  ##
  
-[![ readme ](https://github-readme-stats.vercel.app/api/pin/?username=MariaAfalcao&repo=MariaAfalcao&theme=react)](https://github.com/MariaAfalcao/MariaAfalcao)
+[![ readme ](https://github-readme-stats.vercel.app/api/pin/?username=MariaAfalcao&repo=MariaAfalcao&theme=react)](https://github.com/MariaAfalcao/MariaAfalcao) 
+
+##
+
+<img src="https://github.com/MariaAfalcao/imagem/blob/main/map.png" width="1000" height="400" align="center">
+
+##
+
 
 </div>
