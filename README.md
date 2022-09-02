@@ -25,7 +25,7 @@
   <img align="center" alt="Maria-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maria-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
-<img src="https://gfycat.com/nimblesomberhammerheadbird-propaganda-movimenta-mercado-avatar-bairro-fala" width="100" height="100" align="right">
+<img src="https://github.com/MariaAfalcao/imagem/blob/main/gif-300x300-n.gif" width="100" height="100" align="right">
 </div>
   
   ##
