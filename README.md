@@ -25,7 +25,7 @@
   <img align="center" alt="Maria-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maria-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
- ![Assista ao vídeo](https://img.youtube.com/vi/nTQUwghvy5Q/avatar.png)](https://www.youtube.com/watch?v=-WtK2mF2Z_8)
+
 <img src="https://gfycat.com/nimblesomberhammerheadbird-propaganda-movimenta-mercado-avatar-bairro-fala" width="100" height="100" align="right">
 </div>
   
@@ -57,5 +57,7 @@
 </div>
  
 [![ readme ](https://github-readme-stats.vercel.app/api/pin/?username=MariaAfalcao&repo=MariaAfalcao&theme=react)](https://github.com/MariaAfalcao/MariaAfalcao)
+
+
  
 </div>
