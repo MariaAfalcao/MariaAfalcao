@@ -25,7 +25,6 @@
   <img align="center" alt="Maria-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maria-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
-
 <img src="https://gfycat.com/nimblesomberhammerheadbird-propaganda-movimenta-mercado-avatar-bairro-fala" width="100" height="100" align="right">
 </div>
   
@@ -41,8 +40,6 @@
 <a href="https://www.linkedin.com/in/maria-aparecida-falc%C3%A3o-68242917a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-  
-
 ##
   ![Snake animation](https://github.com/MariaAfalcao/MariaAfalcao/blob/output/github-contribution-grid-snake.svg)
 
@@ -56,6 +53,8 @@
 </div>
  
 </div>
+
+ ##
  
 [![ readme ](https://github-readme-stats.vercel.app/api/pin/?username=MariaAfalcao&repo=MariaAfalcao&theme=react)](https://github.com/MariaAfalcao/MariaAfalcao)
 
