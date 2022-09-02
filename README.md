@@ -47,11 +47,17 @@
 
 ##
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaAfalcao&repo=github-readme-stats" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <a href="https://github.com/MariaAfalcao/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaAfalcao&repo=convoychat" />
   </a>
 </div>
+ 
+  ![ Animação de cobra ](https://github.com/MariaAfalcao/MariaAfalcao/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
+[![ readme ](https://github-readme-stats.vercel.app/api/pin/?username=MariaAfalcao&repo=MariaAfalcao&theme=react)](https://github.com/MariaAfalcao/MariaAfalcao)
  
 </div>
