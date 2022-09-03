@@ -3,7 +3,7 @@
 
 ### Bem vindo ao meu perfil GitHub!👋
 
-- 📚 Atualmente estou aprendendo java na <code>[#Alura](https://www.alura.com.br/)</code>, estudei na Etec Sebrae, desenvolvimento para smartphone!
+- 📚 Atualmente estudo java na <code>[#Alura](https://www.alura.com.br/)</code>, estudei na Etec Sebrae, desenvolvimento para smartphone!
 - 🤔 Estou procurando ajuda com meus colegas de programação, vídeos tutoriais, apostilas e livros.
 - 📫 Como entrar em contato comigo: mariaaparecidafalcao051@gmail.com
 - 😄 Pronomes: Ela/Dela
