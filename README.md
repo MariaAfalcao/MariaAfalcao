@@ -72,11 +72,35 @@ https://user-images.githubusercontent.com/6877923/125816983-610905ce-dd7a-4cbc-8
 
 ##
 
+![Thiago Marinho](https://pbs.twimg.com/profile_banners/41742474/1490016588/1500x500)
+
+##
+
+
+## Índice
+
+Meu resumo de estudo.
+
+| MATÉRIA | TÍTULO | RESUMO | IMPORTANTE | INSPIRAÇÃO | 
+| ------ | ------ | ------ | ------ |------ | 
+| Markdow | [lorem ipsilum][lorem] |
+| Bootstrap | [lorem ipsilum][lorem] |
+| nodeJs | [lorem ipsilum][lorem] |
+| Express | [lorem ipsilum][lorem] |
+| AWS S3 | [lorem ipsilum][lorem] |
+| GitHub | [lorem ipsilum][lorem] |
+| Java | [lorem ipsilum][lorem] |
+| Flutter | [lorem ipsilum][lorem] |
+| HTML5 | [lorem ipsilum][lorem] |
+| CSS3 | [lorem ipsilum][lorem] |
+| JavaScript | [lorem ipsilum][lorem] |
+| Inspiração | [https://www.google.com][nome do site] |
+
+##
 
 <h4 align="center"> 
 	🚧  Readme 🚀 em construção...  🚧
 </h4>
-
 
 ##
 
