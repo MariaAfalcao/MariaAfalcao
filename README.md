@@ -44,17 +44,8 @@
   ![Snake animation](https://github.com/MariaAfalcao/MariaAfalcao/blob/output/github-contribution-grid-snake.svg)
 
 ##
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaAfalcao&repo=github-readme-stats" />
-  </a>
-  <a href="https://github.com/MariaAfalcao/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaAfalcao&repo=convoychat" />
-  </a>
-</div>
- 
-</div>
 
- ##
+</div>
  
 [![ readme ](https://github-readme-stats.vercel.app/api/pin/?username=MariaAfalcao&repo=MariaAfalcao&theme=react)](https://github.com/MariaAfalcao/MariaAfalcao) 
 
@@ -79,6 +70,14 @@
 
 https://user-images.githubusercontent.com/6877923/125816983-610905ce-dd7a-4cbc-8559-e1e61ed5e33c.mp4
 
+##
 
+
+<h4 align="center"> 
+	🚧  Readme 🚀 em construção...  🚧
+</h4>
+
+
+##
 
 </div>
