@@ -127,7 +127,39 @@
 
 -------------------------
 
+### Mapa Interativo3
+
+------------------------
+
+
+``` geojson
+
+
+{"features": [ {"geometry":
+        { "coordinates": [ 0.124862,
+               52.2033051
+         ],
+         "type": "Point"},
+        "id": "Cambridge,UK",
+        "properties": {}, "type": "Feature"
+     },
+    {"geometry":
+         { "coordinates": [ 151.2164539,
+                -33.8548157
+          ],
+          "type": "Point"},
+        "id": "Sydney, Australia",
+        "properties": {}, "type": "Feature"
+    }], "type": "FeatureCollection"}
+    
+    
+```
+
+
+------------------------
+
 ##
+
 
 <img src="https://github.com/MariaAfalcao/imagem/blob/main/map.png" width="1000" height="400" align="center">
 
