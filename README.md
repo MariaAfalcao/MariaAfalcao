@@ -49,7 +49,40 @@
  
 [![ readme ](https://github-readme-stats.vercel.app/api/pin/?username=MariaAfalcao&repo=MariaAfalcao&theme=react)](https://github.com/MariaAfalcao/MariaAfalcao) 
 
-##
+----------------------------------------
+
+### Mapa interativo
+
+----------------------------------------
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
+--------------------------------
 
 <img src="https://github.com/MariaAfalcao/imagem/blob/main/map.png" width="1000" height="400" align="center">
 
